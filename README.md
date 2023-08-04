@@ -16,7 +16,7 @@ I'm a passionate gamer and game developer, always seeking new challenges and exc
 - 👯 I love connecting with fellow gamers and developers to share our passion for games.
 - 💬 Let's chat about the latest gaming trends and our favorite games!
 
-## GitHub Stats
+## GitHub Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayake&layout=compact&bg_color=292929)
 
