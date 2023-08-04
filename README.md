@@ -18,8 +18,8 @@ I'm a passionate gamer and game developer, always seeking new challenges and exc
 
 ## GitHub Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayake&layout=compact&bg_color=151515)
-![Status](https://github-readme-stats.vercel.app/api/?username=kayake\&show_icons=true\&title_color=6a25f5&icon_color=6a25f5&text_color=6a25f5\&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayake&layout=compact&bg_color=151515&title_color=5138f5)
+![Status](https://github-readme-stats.vercel.app/api/?username=kayake\&show_icons=true\&title_color=5138f5&icon_color=5138f5&text_color=5138f5&bg_color=151515)
 
 ## Contribution
 
