@@ -1,10 +1,9 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 <br />
-
 <div align="center">
   <p>
     <a><img alt="GitHub Status (Top Langs)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayake&layout=compact&title_color=5138f5&bg_color=0d1117&hide_border=true"/></a>
-    <a><img alt="GitHub Status (Profile)" src="https://github-readme-stats.vercel.app/api/?username=kayake&show_icons=true\&title_color=5138f5&icon_color=5138f5&text_color=5138f5&bg_color=0d1117&hide_border=true"/></a>
+    <a><img alt="GitHub Status (Profile)" src="https://github-readme-stats.vercel.app/api/?username=kayake&show_icons=true&title_color=5138f5&icon_color=5138f5&text_color=5138f5&bg_color=0d1117&hide_border=true"/></a>
     <br />
     <a><img alt="GitHub Graph (Profile)" src="https://github-readme-activity-graph.vercel.app/graph?username=kayake&line=5138f5&bg_color=0d1117&color=5138f5&hide_border=true"/></a>
   </p>
